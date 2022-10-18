@@ -952,11 +952,11 @@ PrefabInstance:
     - target: {fileID: 569244801289593615, guid: 5fe307d3ed9ba3e409ee1ba4cb04c4f6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 94c4f0f8c57f1aa449452d6753abe868, type: 2}
+      objectReference: {fileID: 2100000, guid: f8b28c9b114806847a53de6081e2852f, type: 2}
     - target: {fileID: 3344384128504849557, guid: 5fe307d3ed9ba3e409ee1ba4cb04c4f6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 94c4f0f8c57f1aa449452d6753abe868, type: 2}
+      objectReference: {fileID: 2100000, guid: a0a67910fb7f5c0449fb6ee2632eb4e9, type: 2}
     - target: {fileID: 7391995282680130315, guid: 5fe307d3ed9ba3e409ee1ba4cb04c4f6, type: 3}
       propertyPath: m_RootOrder
       value: 1
